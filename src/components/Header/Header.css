@@ -1,0 +1,27 @@
+nav li{
+    list-style: none;
+    margin: 14px;
+    font-size: 18px;
+    /* color: black; */
+}
+nav{
+    display: flex;
+    color: black;
+}
+.Header{
+    display: flex;
+    border-bottom: 1px solid wheat;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+}
+.login-button{
+    background-color: orangered;
+    padding: 8px 18px;
+    border-radius: 10px;
+    color: white;
+}
+.logo-part h3{
+    font-size: 40px;
+}

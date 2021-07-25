@@ -1,0 +1,59 @@
+.search-field, .search-result-field{
+    background-color: whitesmoke;
+    min-height: 200px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 15px;
+    font-size: 20px;
+}
+.search-field button{
+    background-color: orangered;
+    width: 100%;
+    margin-top: 10px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 5px;
+}
+.map-field{
+    background-color: whitesmoke;
+    height: 600px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    margin: 10px;
+}
+.destination{
+    display: flex;
+}
+.destination-information{
+    background-color: tomato;
+    border-left: 3px solid orangered;
+    padding:5px 0px 5px 25px;
+    color: white;
+    border-radius: 8px;
+}
+.price img{
+    width: 50px;
+}
+.price{
+    display: flex;
+    background-color:white ;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 10px;
+}
+.media{
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-right: 5px;
+}
+.sit-capacity{
+    padding-left: 10px;
+    padding-top: 15px;
+}
+.ride-price{
+    text-align: right;
+    padding-left: 60px;
+    padding-top: 15px;
+}

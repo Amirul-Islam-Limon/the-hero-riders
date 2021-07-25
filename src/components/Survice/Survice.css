@@ -1,0 +1,28 @@
+.containr{
+    display: flex;
+    flex: 1
+}
+.row{
+    display: flex;
+}
+.raider img{
+    
+}
+.rider img{
+    width: 100%;
+}
+.service{
+    margin-top: 150px;
+}
+.rider{
+    background-color: white;
+    border-radius: 8px;
+}
+.rider h5{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.rider a{
+    text-decoration: none;
+    color:black;
+}
